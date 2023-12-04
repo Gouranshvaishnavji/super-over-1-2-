@@ -9,7 +9,7 @@ body {
  max-width:115px;
 }
 .scoreboard {
-    font-size: 25px;
+    font-size: 65px;
     font-weight: bolder;
   }
 .circle {
@@ -40,13 +40,13 @@ body {
   border-radius: 16px;
 }
 h1 {
-    font-size: 85px;
+    font-size: 115px;
     font-weight: 400;
   }
   .bat-ball {
     width: 100px;
     cursor: pointer;
-    margin: 0 30px;
+    margin: 0 40px;
   }
   section {
     margin: 10vh auto;
